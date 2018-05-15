@@ -1,6 +1,3 @@
 uno.txt
 uno.txt
-uno.txt
-uno.txt
-En reposi6
-
+modificación en uno.txt en repositorio6
