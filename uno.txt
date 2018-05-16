@@ -3,6 +3,4 @@ uno.txt
 modificación en uno.txt en repositorio6
 Quitamos dos líneas.
 Modificamos algo en github.
-
-
-
+Nueva modificación
