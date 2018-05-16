@@ -1,6 +1,8 @@
 uno.txt
 uno.txt
-modificación en uno.txt en repositorio6
-Quitamos dos líneas
+modificaciÃ³n en uno.txt en repositorio6
+Quitamos dos lÃ­neas.
+Modificamos algo en github.
+
 
 
